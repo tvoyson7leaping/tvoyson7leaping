@@ -17,7 +17,6 @@ First install this package's:
 ```
 pip install tronpy
 pip install tronapi
-git clone https://github.com/NitinNegi007/crypto-hunter
 cd crypto-hunter
 ```
 After:
